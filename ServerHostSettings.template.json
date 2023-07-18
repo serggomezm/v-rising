@@ -1,0 +1,29 @@
+{
+    "Name": "${NAME}",
+    "Description": "${DESCRIP}",
+    "Port": "${PORT}",
+    "QueryPort": "${QPORT}",
+    "MaxConnectedUsers": "${MAX_USER}",
+    "MaxConnectedAdmins": "${MAX_ADMIN}",
+    "ServerFps": "${SERVER_FPS}",
+    "SaveName": "${SAVE_NAME}",
+    "Password": "${PASSWORD}",
+    "Secure": "${SECURE}",
+    "ListOnSteam": "${LIST_STEAM}",
+    "ListOnEOS": "${LIST_EOS}",
+    "AutoSaveCount": "${AUTO_SAVE_COUNT}",
+    "AutoSaveInterval": "${AUTO_SAVE_COUNT_INTERVAL}",
+    "CompressSaveFiles": "${COMPRE_SAVE_FILES}",
+    "GameSettingsPreset": "${PRESET_GAME}",
+    "AdminOnlyDebugEvents": "${ADMIN_DEBUG}",
+    "DisableDebugEvents": "${DISABLE_DEBUG}",
+    "API": {
+      "Enabled": "${API_ENABLE_DISABLE}"
+    },
+    "Rcon": {
+      "Enabled": "${RCON_ENABLE_DISABLE}",
+      "Port": "${RCON_PORT}",
+      "Password": "${RCON_PASSWORD}"
+    }
+  }
+  
